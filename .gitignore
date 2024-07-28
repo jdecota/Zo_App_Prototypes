@@ -1,0 +1,7 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Zo_App_Prototypes/Zo_App_Prototypes/bin/Debug
+/Zo_App_Prototypes/Zo_App_Prototypes/obj
+*.vsidx

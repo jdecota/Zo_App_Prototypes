@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Zo_App_Prototypes.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Zo_App_Prototypes"
+    xmlns:pages="clr-namespace:Zo_App_Prototypes.Pages"
+    Shell.FlyoutBehavior="Disabled"
+    Title="Zo_App_Prototypes">
+
+	<!-- TODO: ShellNav- default initial page is first listed unless overridden in App.xaml OnStartUp -->
+    <ShellContent
+        Title="TEMPORARY HOME PAGE"
+        ContentTemplate="{DataTemplate local:TemporaryMainPage}" 
+	     Route="temporaryMain" />
+
+    <ShellContent
+	    Title="HOME"
+	    ContentTemplate="{DataTemplate local:MainPage}" 
+	    Route="main" />
+
+    <ShellContent
+	    Title="INDEX"
+	    ContentTemplate="{DataTemplate pages:IndexPage}" 
+	    Route="index" />
+    <ShellContent
+	    Title="JOIN"
+	    ContentTemplate="{DataTemplate pages:JoinPage}" 
+	    Route="join" />
+    <ShellContent
+	    Title="PROFILE"
+	    ContentTemplate="{DataTemplate pages:ProfilePage}" 
+	    Route="profile" />
+
+    <!--<ShellContent
+	    Title="Home"
+	    ContentTemplate="{DataTemplate pages:DashboardPage}" 
+	    Route="MainPage" />-->
+</Shell>
