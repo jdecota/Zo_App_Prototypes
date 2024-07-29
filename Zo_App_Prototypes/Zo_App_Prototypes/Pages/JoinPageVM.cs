@@ -14,7 +14,7 @@ namespace Zo_App_Prototypes.Pages
    {
       [ObservableProperty] private string _name = "SingletonSean";
 
-      [ObservableProperty] private string _address = "123 Main St";
+      [ObservableProperty] private string _desc = "Description";
 
       [RelayCommand]
       private async Task Submit()
@@ -22,10 +22,11 @@ namespace Zo_App_Prototypes.Pages
          Dictionary<string, object> parameters = new Dictionary<string, object>
          {
             { "new", true },
-            { "profile", new Entities.Profile(Name, Address) }
+            { "profile", new Entities.Profile(Name, Desc) }
          };
 
-         await Shell.Current.GoToAsync("//profile", parameters);
+         await Shell.Current.GoToAsync("//index", parameters);
+         //await Shell.Current.GoToAsync("//index", parameters);
       }
    }
 }

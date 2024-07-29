@@ -3,63 +3,48 @@
   "WorkspaceRootPath": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\joinpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\joinpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaylareese\\.nuget\\packages\\communitytoolkit.maui.core\\9.0.2\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\zo_app_prototypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\zo_app_prototypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\temporarymainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\temporarymainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\dashboard\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\dashboard\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\dashboard\\displayone.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\dashboard\\displayone.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\joinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\joinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\dashboard\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\dashboard\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\temporarymainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\temporarymainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\dashboard\\menudisplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\dashboard\\menudisplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\indexpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\indexpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\dashboard\\menudisplayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\dashboard\\menudisplayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\dashboard\\headervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\dashboard\\headervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\dashboard\\displayonevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\dashboard\\displayonevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\pages\\dashboard\\dashboardpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\pages\\dashboard\\dashboardpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|c:\\repos\\zo_app_prototypes-2024-7\\zo_app_prototypes\\zo_app_prototypes\\temporarymainpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}|Zo_App_Prototypes\\Zo_App_Prototypes.csproj|solutionrelative:zo_app_prototypes\\temporarymainpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,196 +71,144 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\kaylareese\\.nuget\\packages\\communitytoolkit.maui.core\\9.0.2\\ReadMe.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\kaylareese\\.nuget\\packages\\communitytoolkit.maui.core\\9.0.2\\ReadMe.txt",
-              "ToolTip": "C:\\Users\\kaylareese\\.nuget\\packages\\communitytoolkit.maui.core\\9.0.2\\ReadMe.txt",
-              "RelativeToolTip": "..\\..\\..\\Users\\kaylareese\\.nuget\\packages\\communitytoolkit.maui.core\\9.0.2\\ReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-29T00:38:33.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Common\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Common\\ViewModelBase.cs",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Common\\ViewModelBase.cs",
-              "RelativeToolTip": "Zo_App_Prototypes\\Common\\ViewModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:36:20.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JoinPageVM.cs",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\JoinPageVM.cs",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\JoinPageVM.cs",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\JoinPageVM.cs",
-              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\JoinPageVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:35:00.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Zo_App_Prototypes",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Zo_App_Prototypes.csproj",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Zo_App_Prototypes.csproj",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Zo_App_Prototypes.csproj",
-              "RelativeToolTip": "Zo_App_Prototypes\\Zo_App_Prototypes.csproj",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-29T00:28:19.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\MainPage.xaml.cs",
-              "RelativeToolTip": "Zo_App_Prototypes\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:18:00.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\MauiProgram.cs",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\MauiProgram.cs",
-              "RelativeToolTip": "Zo_App_Prototypes\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:17:57.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\MainPage.xaml",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\MainPage.xaml",
-              "RelativeToolTip": "Zo_App_Prototypes\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Title": "Header.xaml",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\Header.xaml",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\Dashboard\\Header.xaml",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\Header.xaml",
+              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\Dashboard\\Header.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-29T00:16:41.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProfilePage.xaml",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\ProfilePage.xaml",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\ProfilePage.xaml",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\ProfilePage.xaml",
-              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\ProfilePage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-29T00:15:51.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IndexPage.xaml",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\IndexPage.xaml",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\IndexPage.xaml",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\IndexPage.xaml",
-              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\IndexPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-29T00:14:42.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "JoinPage.xaml",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\JoinPage.xaml",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\JoinPage.xaml",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\JoinPage.xaml",
-              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\JoinPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-29T00:14:20.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Profile.cs",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Entities\\Profile.cs",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Entities\\Profile.cs",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Entities\\Profile.cs",
-              "RelativeToolTip": "Zo_App_Prototypes\\Entities\\Profile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:13:36.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TemporaryMainPage.xaml",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\TemporaryMainPage.xaml",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\TemporaryMainPage.xaml",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\TemporaryMainPage.xaml",
-              "RelativeToolTip": "Zo_App_Prototypes\\TemporaryMainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-29T00:12:52.471Z",
+              "WhenOpened": "2024-07-29T04:02:52.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\App.xaml.cs",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\App.xaml.cs",
-              "RelativeToolTip": "Zo_App_Prototypes\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T00:06:38.44Z",
+              "Title": "DisplayOne.xaml",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\DisplayOne.xaml",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\Dashboard\\DisplayOne.xaml",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\DisplayOne.xaml",
+              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\Dashboard\\DisplayOne.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-29T04:02:27.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuDisplay.xaml",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\MenuDisplay.xaml",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\Dashboard\\MenuDisplay.xaml",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\MenuDisplay.xaml",
+              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\Dashboard\\MenuDisplay.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-29T04:00:37.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "MenuDisplayVM.cs",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\MenuDisplayVM.cs",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\Dashboard\\MenuDisplayVM.cs",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\MenuDisplayVM.cs",
+              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\Dashboard\\MenuDisplayVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:00:16.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeaderVM.cs",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\HeaderVM.cs",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\Dashboard\\HeaderVM.cs",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\HeaderVM.cs",
+              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\Dashboard\\HeaderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T04:00:05.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayOneVM.cs",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\DisplayOneVM.cs",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\Dashboard\\DisplayOneVM.cs",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\DisplayOneVM.cs",
+              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\Dashboard\\DisplayOneVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T03:59:52.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardPageVM.cs",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\DashboardPageVM.cs",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\Dashboard\\DashboardPageVM.cs",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\DashboardPageVM.cs",
+              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\Dashboard\\DashboardPageVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T03:59:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\Pages\\Dashboard\\DashboardPage.xaml",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\Pages\\Dashboard\\DashboardPage.xaml",
+              "RelativeToolTip": "Zo_App_Prototypes\\Pages\\Dashboard\\DashboardPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-29T03:59:00.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\AppShell.xaml",
               "RelativeDocumentMoniker": "Zo_App_Prototypes\\AppShell.xaml",
               "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\AppShell.xaml",
               "RelativeToolTip": "Zo_App_Prototypes\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABiAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAlwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-28T23:51:27.518Z",
+              "WhenOpened": "2024-07-29T03:56:22.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\App.xaml",
-              "RelativeDocumentMoniker": "Zo_App_Prototypes\\App.xaml",
-              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\App.xaml",
-              "RelativeToolTip": "Zo_App_Prototypes\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "TemporaryMainPageVM.cs",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\TemporaryMainPageVM.cs",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\TemporaryMainPageVM.cs",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\TemporaryMainPageVM.cs",
+              "RelativeToolTip": "Zo_App_Prototypes\\TemporaryMainPageVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T03:55:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemporaryMainPage.xaml",
+              "DocumentMoniker": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\TemporaryMainPage.xaml",
+              "RelativeDocumentMoniker": "Zo_App_Prototypes\\TemporaryMainPage.xaml",
+              "ToolTip": "C:\\Repos\\Zo_App_Prototypes-2024-7\\Zo_App_Prototypes\\Zo_App_Prototypes\\TemporaryMainPage.xaml",
+              "RelativeToolTip": "Zo_App_Prototypes\\TemporaryMainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-28T23:51:19.041Z",
+              "WhenOpened": "2024-07-29T03:55:18.067Z",
               "EditorCaption": ""
             }
           ]

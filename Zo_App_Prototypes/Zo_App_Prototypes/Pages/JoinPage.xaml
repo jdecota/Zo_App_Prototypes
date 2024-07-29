@@ -2,11 +2,24 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Zo_App_Prototypes.Pages.JoinPage"
-             Title="JoinPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="JOIN PAGE"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="JoinPage"
+             xmlns:vm="clr-namespace:Zo_App_Prototypes.Pages"
+             x:DataType="vm:JoinPageVM">
+	<VerticalStackLayout Padding="20" MaximumWidthRequest="600">
+		<VerticalStackLayout>
+			<Label Text="Name" />
+			<Entry Margin="0,2,0,0" Text="{Binding Name}" />
+		</VerticalStackLayout>
+
+		<VerticalStackLayout Margin="0,10,0,0">
+			<Label Text="Address" />
+			<Entry Margin="0,2,0,0" Text="{Binding Desc}" />
+		</VerticalStackLayout>
+
+		<Button
+			Margin="0,20,0,0"
+			Command="{Binding SubmitCommand}"
+			HorizontalOptions="Start"
+			Text="Submit" />
+	</VerticalStackLayout>
 </ContentPage>
