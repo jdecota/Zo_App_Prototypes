@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zo_App_Prototypes.Pages.Dashboard.HeaderComponent">
+    <VerticalStackLayout>
+<HorizontalStackLayout>
+	<Button
+		Text="Form Container"
+		Command="{Binding SelectionChanged}"
+		CommandParameter="FormContainer"
+		></Button>
+
+	<Button
+		Text="Form Container"
+		Command="{Binding SelectionChanged}"
+		CommandParameter="DataGridContainer"
+	></Button>
+
+	<Button
+		Text="Form Container"
+		Command="{Binding SelectionChanged}"
+		CommandParameter="CalendarContainer"
+	></Button>
+		</HorizontalStackLayout>
+
+	    <VerticalStackLayout>
+		    <Label 
+			    Text="Header Component"
+			    VerticalOptions="Center" 
+			    HorizontalOptions="Center" />
+	    </VerticalStackLayout>
+
+
+
+
+	</VerticalStackLayout>
+	
+	
+
+</ContentView>

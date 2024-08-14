@@ -5,3 +5,16 @@
 /Zo_App_Prototypes/Zo_App_Prototypes/bin/Debug
 /Zo_App_Prototypes/Zo_App_Prototypes/obj
 *.vsidx
+*.bin
+*.obj
+*.suo
+*.DotSettings.user
+
+/Zo_App_Prototypes/CommonLib/obj
+/Zo_App_Prototypes/CommonLib/bin/Debug
+/Zo_App_Prototypes/ControlTemplates/bin/Debug/net8.0-windows10.0.19041.0/win10-x64
+/Zo_App_Prototypes/ControlTemplates/obj
+/Zo_App_Prototypes/.vs/Zo_App_Prototypes/v17/.suo
+/Zo_App_Prototypes/.vs/Zo_App_Prototypes/DesignTimeBuild/.dtbcache.v2
+/Zo_App_Prototypes/.vs/Zo_App_Prototypes/v17/.futdcache.v2
+/Zo_App_Prototypes/.vs/Zo_App_Prototypes/v17/DocumentLayout.json

@@ -16,6 +16,7 @@ namespace Zo_App_Prototypes.WinUI
       /// </summary>
       public App()
       {
+         //InitializeComponent();
          this.InitializeComponent();
       }
 

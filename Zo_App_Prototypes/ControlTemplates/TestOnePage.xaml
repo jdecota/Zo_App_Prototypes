@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlTemplates.TestOnePage"
+             Title="TestOnePage">
+	<ContentPage.Resources>
+		<ControlTemplate x:Key="CustomTemplate">
+			<Grid RowDefinitions="Auto, *, Auto">
+				<Label Grid.Row="0" Text="Header" />
+				<ContentPresenter Grid.Row="1" />
+				<Label Grid.Row="2" Text="Footer" />
+			</Grid>
+		</ControlTemplate>
+		<Style x:Key="CustomStyle" TargetType="ContentView">
+			<Setter Property="ControlTemplate" Value="{StaticResource CustomTemplate}" />
+		</Style>
+	</ContentPage.Resources>
+	<VerticalStackLayout Margin="10" Spacing="10">
+		<ContentView x:Name="ContentView1" BackgroundColor="LightCyan" ControlTemplate="{DynamicResource CustomTemplate}">
+			<Label Text="Content 1" />
+		</ContentView>
+		<ContentView x:Name="ContentView2" BackgroundColor="LightGreen" Style="{StaticResource CustomStyle}">
+			<Label Text="Content 2" />
+		</ContentView>
+		<Button Text="Set Custom Template" Clicked="OnSetCustomTemplateClicked" />
+		<ContentView x:Name="ContentView3" BackgroundColor="LightBlue">
+			<Label Text="Content 3" />
+		</ContentView>
+		<Button Text="Set Custom Style" Clicked="OnSetCustomStyleClicked" />
+		<ContentView x:Name="ContentView4" BackgroundColor="LightSkyBlue">
+			<Label Text="Content 4" />
+		</ContentView>
+	</VerticalStackLayout>
+</ContentPage>

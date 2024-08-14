@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+ATTRIBUTES:  https://learn.microsoft.com/en-us/visualstudio/ide/code-snippets-schema-reference?view=vs-2022#attributes
+
+Lang:  CSharp, XML, XAML, SQL, and more
+Kind:   method body, method decl, type decl, file, any   (file- can be alone in code file)
+
+SCHEMA:  https://learn.microsoft.com/en-us/visualstudio/ide/code-snippets-schema-reference?view=vs-2022
+-->
+
+
+
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title></Title>
+		</Header>
+		<Snippet>
+			<Code Language="">
+				<![CDATA[]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

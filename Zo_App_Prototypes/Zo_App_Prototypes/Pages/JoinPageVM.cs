@@ -12,7 +12,8 @@ namespace Zo_App_Prototypes.Pages
 {
    public partial class JoinPageVM : ViewModelBase
    {
-      [ObservableProperty] private string _name = "SingletonSean";
+      [ObservableProperty] 
+      private string _name = "SingletonSean";
 
       [ObservableProperty] private string _desc = "Description";
 

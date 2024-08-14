@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlTemplates.TestTwo.View1"
+				ControlTemplate="{DynamicResource ThemeMaster}">
+	<ContentView.Content>
+		<StackLayout>
+			<Label Text="Registration Page">
+			</Label>
+			<Entry Text="Name">
+			</Entry>
+			<Entry Text="Age">
+			</Entry>
+			<Entry Text="Address">
+			</Entry>
+			<Entry Text="Country">
+			</Entry>
+			<Button Text="Submit" BackgroundColor="Black">
+			</Button>
+			<Button Text="Theme Master" Clicked="Handle_Master_Clicked"></Button>
+			<Button Text="Theme Blue" Clicked="Handle_Blue_Clicked"></Button>
+		</StackLayout>
+</ContentView.Content>
+</ContentView>

@@ -1,6 +1,7 @@
 ﻿using Microsoft.Maui.Controls;
 
 using Zo_App_Prototypes.Pages;
+using Zo_App_Prototypes.Pages.Dashboard;
 
 namespace Zo_App_Prototypes
 {
@@ -12,6 +13,7 @@ namespace Zo_App_Prototypes
 
 
          Routing.RegisterRoute("index/description", typeof(DescriptionPage));
+         Routing.RegisterRoute("temporaryMain/dashboard", typeof(DashboardPage));
 
          //Routing.RegisterRoute("description", typeof(DescriptionPage));
          //Routing.RegisterRoute("index", typeof(IndexPage));

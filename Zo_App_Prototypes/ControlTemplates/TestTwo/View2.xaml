@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlTemplates.TestTwo.View2"
+				 xmlns:vm="clr-namespace:ControlTemplates.TestTwo"
+				 xmlns:system="clr-namespace:System;assembly=System.Runtime"
+				 xmlns:views="clr-namespace:ControlTemplates.TestTwo"
+				 x:Name="contentView"
+				 x:DataType="vm:View2VM">
+	<!--ControlTemplate="{DynamicResource ThemeMaster}">-->
+	<ContentView.Resources>
+		<!--<ControlTemplate x:Name="View2ControlTemplate" x:Key="{}">
+
+		</ControlTemplate>
+		<ControlTemplate x:Key="CT2"></ControlTemplate>-->
+	</ContentView.Resources>
+	<ContentView.Content>
+		<StackLayout>
+
+			<Label Text="Registration Page">
+			</Label>
+			<Entry Text="Name">
+			</Entry>
+			<Entry Text="Age">
+			</Entry>
+			<Entry Text="Address">
+			</Entry>
+			<Entry Text="Country">
+			</Entry>
+			<Button Text="Submit" BackgroundColor="Black">
+			</Button>
+			<Button Text="Code Behind Theme Master" Clicked="Handle_Master_Clicked"></Button>
+			<Button Text="Code Behind Theme Blue" Clicked="Handle_Blue_Clicked"></Button>
+
+			<Button Text="Select Theme Master"
+					  Command="{Binding TemplateSelectedCommand}"
+			        CommandParameter="ThemeMaster"
+			></Button>
+			<Button Text="Select View Blue" 
+					  Command="{Binding TemplateSelectedCommand}"
+			        CommandParameter="ThemeBlue"/>
+
+
+
+			<!--<Button Text="Select Theme Master"
+					  Command="{Binding UpdateTemplateCommand}"
+			        CommandParameter="ThemeMaster"
+			></Button>
+			<Button Text="Select View Blue" 
+					  Command="{Binding UpdateTemplateCommand}"
+			        CommandParameter="ThemeBlue"
+			></Button>-->
+				
+		</StackLayout>
+	</ContentView.Content>
+</ContentView>
+

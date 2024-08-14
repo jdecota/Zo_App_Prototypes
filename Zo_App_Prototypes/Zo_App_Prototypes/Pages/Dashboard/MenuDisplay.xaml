@@ -4,10 +4,16 @@
              x:Class="Zo_App_Prototypes.Pages.Dashboard.MenuDisplay"
              xmlns:vm="clr-namespace:Zo_App_Prototypes.Pages.Dashboard"
              x:DataType="vm:MenuDisplayVM">
-    <VerticalStackLayout>
+
+	<VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="MenuDisplay "
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
-    </VerticalStackLayout>
+        <!--Text="{Binding TemporaryText}"-->
+		<Label 
+
+	        VerticalOptions="Center" 
+	        HorizontalOptions="Center" />
+	</VerticalStackLayout>
 </ContentView>

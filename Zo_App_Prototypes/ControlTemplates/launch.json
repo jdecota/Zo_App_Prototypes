@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": ".NET MAUI",
+            "type": "maui",
+            "request": "launch",
+            "preLaunchTask": "maui: Build"
+        },
+        {
+            "name": "C#: ControlTemplates",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\ControlTemplates.csproj",
+            "launchConfigurationId": "vscode-maui"
+        }
+    ]
+}

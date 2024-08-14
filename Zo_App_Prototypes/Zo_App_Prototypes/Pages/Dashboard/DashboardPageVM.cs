@@ -1,14 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+
 using Zo_App_Prototypes.Common;
 
 namespace Zo_App_Prototypes.Pages.Dashboard
 {
-   public partial class DashboardPageVM : ViewModelBase
+   public class DashboardPageVM : ViewModelBase
    {
+      //public HeaderVM HeaderVM { get;}
+     // public HeaderComponentVM HeaderComponentVM { get; }
+      public HeaderCompVM HeaderCompVM { get;}
+      public MenuDisplayVM MenuDisplayVM { get;}
+      public DisplayOneVM DisplayOneVM { get;}
 
+
+
+
+      public DashboardPageVM(
+        // HeaderVm headerVm,
+        //HeaderComponentVM headerComponentVM,
+        HeaderCompVM headerCompVM,
+         MenuDisplayVM menuDisplayVM,
+         DisplayOneVM displayOneVM)
+      {
+         //HeaderVm = headerVm;
+         //HeaderComponentVM = headerComponentVM;
+         HeaderCompVM = headerCompVM;
+         MenuDisplayVM = menuDisplayVM;
+         DisplayOneVM = displayOneVM;
+      }
    }
 }

@@ -7,7 +7,7 @@ using CommunityToolkit.Mvvm.ComponentModel;
 
 namespace Zo_App_Prototypes.Common
 {
-   public partial class ViewModelBase : ObservableObject 
+   public class ViewModelBase : ObservableObject 
    {
 
 

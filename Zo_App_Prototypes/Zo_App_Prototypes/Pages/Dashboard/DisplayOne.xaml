@@ -3,11 +3,43 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Zo_App_Prototypes.Pages.Dashboard.DisplayOne"
              xmlns:vm="clr-namespace:Zo_App_Prototypes.Pages.Dashboard"
+				 ControlTemplate="{Binding CurrentDisplayOneCT}"
              x:DataType="vm:DisplayOneVM">
-    <VerticalStackLayout>
+<Grid>
+<Label Text="Display One Content Goes Here"></Label>
+</Grid>
+
+	<!--<VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="Display One View"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
-    </VerticalStackLayout>
+        <Grid>
+	        <Grid.RowDefinitions>
+		        <RowDefinition Height="auto" />
+		        <RowDefinition Height="*" />
+	        </Grid.RowDefinitions>
+
+	        <Label Grid.Row="0" Text="Profit" />
+
+	        <Label
+		        Grid.Row="1"
+		        FontSize="48"
+		        BindingContext="{x:Type vm:DisplayOneVM}"/>
+		        --><!--<Label.Style>
+			        <Style TargetType="Label">
+				        <Style.Triggers>
+					        <DataTrigger Binding="{Binding IsPositive}" Value="True">
+						        <Setter Property="Foreground" Value="Green" />
+					        </DataTrigger>
+					        <DataTrigger Binding="{Binding IsNegative}" Value="True">
+						        <Setter Property="Foreground" Value="Red" />
+					        </DataTrigger>
+				        </Style.Triggers>
+			        </Style>
+		        </Label.Style>
+	        </Label>--><!--
+        </Grid>
+	</VerticalStackLayout>-->
+
 </ContentView>

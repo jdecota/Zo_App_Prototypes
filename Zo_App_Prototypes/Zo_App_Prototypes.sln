@@ -3,7 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zo_App_Prototypes", "Zo_App_Prototypes\Zo_App_Prototypes.csproj", "{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zo_App_Prototypes", "Zo_App_Prototypes\Zo_App_Prototypes.csproj", "{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlTemplates", "ControlTemplates\ControlTemplates.csproj", "{8F0A912C-78FB-431F-BF3C-175777801B83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonLib", "CommonLib\CommonLib.csproj", "{A883BD15-E8D4-4619-BDF7-0213C44F1954}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zo_UI", "..\..\All_Zo\Zo_UI\Zo_UI\Zo_UI.csproj", "{DA13777F-300E-403F-8991-BFF84416C1BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools-NotesSnippetsEtc", "Tools-NotesSnippetsEtc", "{D6E3BDB5-7550-460F-A1C5-3EC7A58B61EE}"
+	ProjectSection(SolutionItems) = preProject
+		App_UI_Guide.txt = App_UI_Guide.txt
+		CodeSnippets.xml = CodeSnippets.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZoAggregates", "ZoAggregates", "{CC53EB21-4574-40B7-9061-F3CC63F90A96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "all_prototype_projects", "all_prototype_projects", "{74B52263-28B1-4685-ADAC-206AF5A03E9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DevStartTasksList", "DevStartTasksList", "{04693565-B627-4777-AB28-E9F5EC9A19F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Components", "..\..\All_Zo\Zo_UI\Components\Components.csproj", "{15D6243E-E537-479B-B79D-5DBCCD048D10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,9 +37,32 @@ Global
 		{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0C5C8F1F-1A8D-42B2-B141-9AE80DC47538}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8F0A912C-78FB-431F-BF3C-175777801B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0A912C-78FB-431F-BF3C-175777801B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0A912C-78FB-431F-BF3C-175777801B83}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8F0A912C-78FB-431F-BF3C-175777801B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0A912C-78FB-431F-BF3C-175777801B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0A912C-78FB-431F-BF3C-175777801B83}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A883BD15-E8D4-4619-BDF7-0213C44F1954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A883BD15-E8D4-4619-BDF7-0213C44F1954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A883BD15-E8D4-4619-BDF7-0213C44F1954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A883BD15-E8D4-4619-BDF7-0213C44F1954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA13777F-300E-403F-8991-BFF84416C1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA13777F-300E-403F-8991-BFF84416C1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA13777F-300E-403F-8991-BFF84416C1BA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA13777F-300E-403F-8991-BFF84416C1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA13777F-300E-403F-8991-BFF84416C1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA13777F-300E-403F-8991-BFF84416C1BA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{15D6243E-E537-479B-B79D-5DBCCD048D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D6243E-E537-479B-B79D-5DBCCD048D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D6243E-E537-479B-B79D-5DBCCD048D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D6243E-E537-479B-B79D-5DBCCD048D10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04693565-B627-4777-AB28-E9F5EC9A19F3} = {CC53EB21-4574-40B7-9061-F3CC63F90A96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1DD6E70-5382-47B9-9AB6-FE3F200848FD}

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlTemplates.MainPage"
+				 xmlns:vm="clr-namespace:ControlTemplates"
+             xmlns:view="clr-namespace:ControlTemplates.TestTwo">
+
+    <ScrollView>
+<VerticalStackLayout>
+	<HorizontalStackLayout>
+		<Label 
+			Text="{Binding Message}"
+		
+			VerticalOptions="Center" 
+			HorizontalOptions="Center" />
+				<Frame>
+					<Entry
+						x:Name="EnteredMessage"
+					Placeholder="Enter Message"
+					/>
+				</Frame>
+				<Button 
+			Text="Submit"
+			Command="{Binding UpdateMessageCommand}"
+			CommandParameter="{Binding Source={x:Reference EnteredMessage}, Path=Text}"
+			VerticalOptions="Center" 
+			HorizontalOptions="Center" />
+				<Label
+					Text="{Binding Source={x:Reference EnteredMessage}, Path=Text}" />
+
+				<Button 
+			Text="Test One"
+			Command="{Binding NavigateToTestOnePageCommand}"
+			VerticalOptions="Center" 
+			HorizontalOptions="Center" />
+
+		<Button 
+			Text="TestTwo"
+			Command="{Binding NavigateToTestTwoPageCommand}"
+			VerticalOptions="Center" 
+			HorizontalOptions="Center" />
+
+		<Button 
+			Text="Statinder Sidhu Page 1"
+			Command="{Binding NavigateToPage1Command}"
+			VerticalOptions="Center" 
+			HorizontalOptions="Center" />
+
+		<Button 			    
+			Text="Statinder Sidhu Page 2"
+			Command="{Binding NavigateToPage2Command}"
+			VerticalOptions="Center" 
+			HorizontalOptions="Center" />
+		<Button 
+			Text="Statinder Sidhu Page 3"
+			Command="{Binding NavigateToPage3Command}"
+			VerticalOptions="Center" 
+			HorizontalOptions="Center" />
+	</HorizontalStackLayout>
+
+<VerticalStackLayout>
+
+		<view:View1 />
+
+
+</VerticalStackLayout>
+
+	<VerticalStackLayout>
+				<view:View2/>
+
+
+			</VerticalStackLayout>
+
+		</VerticalStackLayout>
+
+
+
+	</ScrollView>
+
+</ContentPage>
